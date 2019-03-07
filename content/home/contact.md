@@ -10,7 +10,7 @@ subtitle = ""
 weight = 130
 
 # Automatically link email and phone?
-autolink = false
+autolink = true
 
 # Email form provider
 #   0: Disable email form
