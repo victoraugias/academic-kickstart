@@ -13,7 +13,7 @@ role = "Ph.D. candidate in economics"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Sciences Po", url = "https://www.sciencespo.fr/en/home"} , {name="Department of Economics", url="http://econ.sciences-po.fr/"} ]
+organizations = [{name="Sciences Po", url="https://www.sciencespo.fr/en/home"}, {name="Department of Economics", url="http://econ.sciences-po.fr/"}]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "I study information and behavioral economics using both theoretical and experimental methods."
@@ -30,7 +30,7 @@ interests = [
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Researchers", "Visitors"]
+# user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
@@ -63,7 +63,7 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "fab"
   link = "https://twitter.com/VictorAugias"
 
-#[[social]]
+# [[social]]
 #  icon = "google-scholar"
 #  icon_pack = "ai"
 #  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
