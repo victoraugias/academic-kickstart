@@ -13,7 +13,7 @@ role = "Ph.D. candidate in economics"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Sciences Po", url = "https://www.sciencespo.fr/en/home" , {name="Department of Economics", url="http://econ.sciences-po.fr/"} ]
+organizations = [ { name = "Sciences Po", url = "https://www.sciencespo.fr/en/home"} , {name="Department of Economics", url="http://econ.sciences-po.fr/"} ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "I study information and behavioral economics using both theoretical and experimental methods."
