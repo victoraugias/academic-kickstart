@@ -3,13 +3,13 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-color_theme = "default"
+color_theme = "ocean"
 # Enable users to switch between day and night mode?
 day_night = true
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
-font = "classic"
+font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -18,7 +18,7 @@ description = ""
 sharing_image = ""
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = "@VictorAugias"
+twitter = "VictorAugias"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -55,15 +55,15 @@ phone = "+33 (0)6 69 97 00 70"
 address = "28 rue des Saints-Pères, 75007, Paris"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = ""
+#office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = ""
+#appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+  {icon = "twitter", icon_pack = "fab", name = "@VictorAugias", link = "https://twitter.com/Twitter"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -85,7 +85,7 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 1
+map = 0
 map_api_key = ""
 latitude = "48.855729"
 longitude = "2.3285912"
@@ -133,7 +133,7 @@ sharing = true
 #  citation_style = "apa"
 
 # Configuration of project pages.
-[research]
+[project]
   # Views for associated content.
   #   1: List
   #   2: Compact
