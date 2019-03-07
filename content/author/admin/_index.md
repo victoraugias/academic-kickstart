@@ -63,6 +63,11 @@ interests = [
   icon_pack = "fab"
   link = "https://twitter.com/VictorAugias"
 
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/victoraugias/"
+
 # [[social]]
 #  icon = "google-scholar"
 #  icon_pack = "ai"
@@ -78,7 +83,7 @@ interests = [
  [[social]]
    icon = "cv"
    icon_pack = "ai"
-   link = "files/CV_Victor_AUGIAS.pdf"
+   link = "static/files/CV_Victor_AUGIAS.pdf"
 
 +++
 
