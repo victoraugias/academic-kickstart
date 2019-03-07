@@ -36,7 +36,7 @@ interests = [
 [[education.courses]]
   course = "Ph.D."
   institution = "Sciences Po"
-  year = 2018-2021 (expected)
+  year = "2021 (expected)"
 
 [[education.courses]]
   course = "M.Res. Economics"
