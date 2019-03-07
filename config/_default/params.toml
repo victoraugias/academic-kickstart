@@ -3,13 +3,13 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-color_theme = "ocean"
+color_theme = "forest"
 # Enable users to switch between day and night mode?
 day_night = true
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
-font = "default"
+font = "classic"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -62,7 +62,6 @@ address = "28 rue des Saints-Pères, 75007, Paris"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [{icon = "mail", icon_pack = "fab", name = "victor.augias@sciencespo.fr", link = "mailto:victor.augias@sciencespo.fr"}]
 contact_links = [{icon = "twitter", icon_pack = "fab", name = "@VictorAugias", link = "https://twitter.com/VictorAugias"}]
 
 # Display a map.
