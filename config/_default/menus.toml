@@ -13,10 +13,10 @@
   url = "#research"
   weight = 20
 
-#[[main]]
-#  name = "Teaching"
-#  url = "#teaching"
-#  weight = 30
+[[main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 30
 
 [[main]]
   name = "Contact"
@@ -27,5 +27,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
     name = "CV"
-    url = "static/files/CV_Victor_AUGIAS.pdf"
+    url = "/files/cv.pdf"
     weight = 50
