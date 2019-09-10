@@ -80,10 +80,10 @@ interests = [
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/img/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "/static/img/CV_Victor_AUGIAS.pdf"
+ [[social]]
+   icon = "cv"
+   icon_pack = "ai"
+   link = "/static/img/cv.pdf"
 
 +++
 
